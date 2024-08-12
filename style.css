@@ -488,27 +488,6 @@ font-size: 4rem;
   margin-bottom: 10px;
 }
 
-.contact .submit{
-  width: auto;
-  background-color: #fed700;
-  padding: 10px 40px;
-  font-weight:bold ;
-  font-size: 18px;
-}
-.contact .submit:hover{
-  transform: scale(1.1);
-  cursor: pointer;
-}
-#msg{
-  color: #fff;
-  font-size: 20px;
-  margin-top: -8px;
-  display: block;
-}
-
-
-
-
 
 
 /*---------------------------Footer---------------------------*/
